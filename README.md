@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="left" alt="Kristian's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ravenkls&show_icons=true&theme=radical&count_private=true&hide_border=true" />
+<img align="left" alt="Kristian's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ravenkls&show_icons=true&theme=radical&count_private=true&hide_border=true&hide=contribs,issues&include_all_commits=true&line_height=30" />
